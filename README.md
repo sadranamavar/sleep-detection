@@ -30,3 +30,20 @@ The accuracy of sleep detection depends on lighting conditions, camera image qua
 - CVZone: https://www.computervision.zone/
 - Facial landmarks: https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
 - Eye aspect ratio: https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+
+## quick run 
+
+
+- make and active virtualenv
+
+
+- install requirements
+
+    2. ``` python3 -m pip install matplotlib```
+    3. ``` python3 -m pip install  mediapipe```
+    4. ``` python3 -m pip install opencv-python```
+    5. ``` python3 -m pip install cvzone```
+
+- run projects 
+
+    6. ```python3 ./sleep_detection.py ```
