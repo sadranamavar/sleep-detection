@@ -47,3 +47,6 @@ The accuracy of sleep detection depends on lighting conditions, camera image qua
 - run projects 
 
     6. ```python3 ./sleep_detection.py ```
+
+video link :
+https://mega.nz/fm/NnIhDLAR
